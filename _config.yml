@@ -1,9 +1,10 @@
-#title: Rade Drmic's homepage
-#description: Rade Drmic's homepage
+title: Rade Drmic
+escription: Homepage
 
 author: Rade Drmic
 email: rdrmic@gmail.com
 github_username: rdrmic
 
 theme: jekyll-theme-midnight
+
 show_excerpts: false
