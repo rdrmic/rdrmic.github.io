@@ -6,4 +6,4 @@ title: ""
   - [screenshot](https://github.com/rdrmic/color-columns/raw/main/github-resources/cc_gameplay.png)
   - [github project](https://github.com/rdrmic/color-columns#color-columns)
 
-- Here you can get my CV (en) in [PDF](docs/CV_Radoslav Drmic_-_ eng.pdf)
+- Here you can get my CV (en) in [PDF](docs/CV_Rade_Drmic-EN.pdf)
