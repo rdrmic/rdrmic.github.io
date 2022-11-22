@@ -6,5 +6,5 @@ title: ""
   - [Screenshot](https://github.com/rdrmic/color-columns/raw/main/github-resources/cc_gameplay.png)
   - [GitHub project](https://github.com/rdrmic/color-columns#color-columns)
 
-- Usually it's here, but my CV is being updated right now... :)
 <!--- - Here you can get my CV (en) in [PDF](docs/CV_Rade_Drmic-EN.pdf) -->
+- Usually it's here, but my CV is being updated right now... :)
