@@ -7,4 +7,4 @@ title: ""
   - [GitHub project](https://github.com/rdrmic/color-columns#color-columns)
 
 <!--- - Here you can get my CV (en) in [PDF](docs/CV_Rade_Drmic-EN.pdf) -->
-- Usually it's here, but my CV is being updated right now... :)
+<!--- - Usually it's here, but my CV is being updated right now... :) -->
